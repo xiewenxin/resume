@@ -9,35 +9,15 @@
         "sex": "男",
         "education" : "硕士研究生",
         "workage": "2020届毕业",
-        "phone": "8260039533",
+        "phone": "18260039533",
         "email": "1782253654@qq.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/xiewenxin",
             "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "http://jayinton.com",
-            "icon": ""
-        }
+        }  
     ],
     "Awards": [
         {
